@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blogify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+909fdba837c270ae558491ecadbdc388c9b5766a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e09b6f10709b8c586e15b325798091e688b5502")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blogify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blogify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
